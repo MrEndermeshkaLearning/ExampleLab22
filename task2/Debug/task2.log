@@ -1,0 +1,6 @@
+﻿  task2.cpp
+C:\Users\lodki\source\repos\ExampleLab22\task2\task2.cpp(44,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\lodki\source\repos\ExampleLab22\task2\task2.cpp(76,15): warning C4101: 'k': unreferenced local variable
+C:\Users\lodki\source\repos\ExampleLab22\task2\task2.cpp(76,12): warning C4101: 'j': unreferenced local variable
+C:\Users\lodki\source\repos\ExampleLab22\task2\task2.cpp(76,9): warning C4101: 'i': unreferenced local variable
+  task2.vcxproj -> C:\Users\lodki\source\repos\ExampleLab22\Debug\task2.exe
